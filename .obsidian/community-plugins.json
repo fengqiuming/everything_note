@@ -1,5 +1,13 @@
 [
   "obsidian-git",
   "dataview",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "calendar",
+  "obsidian-kanban",
+  "obsidian-mind-map",
+  "obsidian-day-planner",
+  "obsidian-checklist-plugin",
+  "pdf-plus",
+  "obsidian-tracker",
+  "obsidian-reminder-plugin"
 ]
